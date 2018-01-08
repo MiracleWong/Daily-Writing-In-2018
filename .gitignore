@@ -1,0 +1,16 @@
+# The directories and files should be ignored
+.sync/
+.Archive/
+*.data
+_image/
+sync_changes.log
+
+.sync/*
+
+.me_configs.data
+
+.z_sync_configs.data
+
+sync_hook.script
+
+**/.Archive
